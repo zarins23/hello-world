@@ -1,2 +1,6 @@
 # hello-world
-Initial setup
+
+
+Hello all,
+
+My name is Zarin, and I am new to programming. 
